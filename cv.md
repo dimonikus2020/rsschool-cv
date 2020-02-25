@@ -1,12 +1,15 @@
-### Dmitrii Kovalchuk
+# Dmitrii Kovalchuk
+## iOS Junior Developer
 
-#### Contacts
+## Contacts
 
 **Discord**: dimonikus#7323
+
 **Telegram**: [@dimonikus2020](https://t.me/dimonikus2020)
+
 **E-mail**: [dmkovdm@gmail.com](mailto:dmkovdm@gmail.com)
 
-#### Summary
+## Summary
 
 I am an open, cheerful, and purposeful person. After five successful years of working in sales and marketing in the FMSG market decided that I no longer want to generate ideas to sell something but want to use my mind to create interesting, useful, and meaningful things. And what but programming can give a person complete freedom to create in the era of digitalization.
 
@@ -14,7 +17,7 @@ I chose programming for the iOS system as the main direction for development. Wh
 
 My main goal is to prove to myself that a radical change in the type of activity is possible at any time, as long as you like what you do. I get into programming almost from scratch, so I'm more interested than ever in testing all my abilities, especially learning on the fly skill.
 
-#### Technical Skills
+## Technical Skills
 
 #### Programming languages:
 * Objective-C (basic)
@@ -33,19 +36,19 @@ My main goal is to prove to myself that a radical change in the type of activity
 * Bash (basic)
 * GIT (basic)
 
-#### Code examples
+## Code examples
 
 Coming soon
 
-#### Experience
+## Experience
 
 Everything is just beginning but definitely won't be boring
 
-#### Education
+## Education
 
 No profile education was found
 
-#### English
+## English
 
 B2/C1 (Upper-Intermediate/Advanced)
 * Business correspondence maintanence (last 4 years)
